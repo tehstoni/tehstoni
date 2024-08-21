@@ -15,7 +15,6 @@ I am working on developing advanced pentesting, red teaming, and malware develop
 <a href="https://www.offsec.com/courses/pen-300/">OSEP</a>
 
 ## Certification Work in Progress
-<a href="https://www.offsec.com/courses/pen-210/">OSWP</a>
 <a href="">CRTO II</a>
 
 ## Future Plans
