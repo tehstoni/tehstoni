@@ -1,8 +1,5 @@
 # Whoami
-## Pentester and aspiring malware developer.
-I currently work on the consulting side of pentesting. Helping many clients of varying types harden their network security.
-
-I am working on developing advanced pentesting, red teaming, and malware development skills.
+nerd
 
 ## Certifications Owned
 <a href="https://security.ine.com/certifications/ejpt-certification/">eJPT</a>
