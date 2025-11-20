@@ -13,8 +13,6 @@ nerd
 
 ## Certification Work in Progress
 <a href="">CRTO II</a>
-
-## Future Plans
 <a href="https://www.offsec.com/courses/web-300/">OSWE</a>
 <a href="https://www.offsec.com/courses/exp-301/">OSED</a>
 
